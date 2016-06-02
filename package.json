@@ -1,0 +1,15 @@
+{
+  "name": "site-scraper",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "site-scraper"
+  },
+  "author": "Adam Sando",
+  "license": "ISC"
+}
