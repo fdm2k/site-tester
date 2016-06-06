@@ -1,0 +1,18 @@
+body {
+  font-family: 'soleil', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+table, th, td {
+  border: 1px solid darkgray;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+.status {
+  text-align: center;
+}
+.text-center {
+  text-align: center;
+}
